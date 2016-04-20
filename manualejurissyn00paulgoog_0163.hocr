@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./manualejurissyn00paulgoog_0163.png"; bbox 0 0 2292 3684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 94 19 305 87">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 94 19 305 87">
+     <span class='ocr_line' id='line_1_1' title="bbox 94 19 305 87; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 94 24 105 28; x_wconf 73' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 166 19 305 87; x_wconf 58' lang='lat' dir='ltr'><strong>V</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 211 115 1979 190">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 211 115 1979 190">
+     <span class='ocr_line' id='line_1_2' title="bbox 211 115 1979 190; baseline -0.003 -17"><span class='ocrx_word' id='word_1_3' title='bbox 211 175 224 186; x_wconf 74' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 283 131 419 173; x_wconf 75' lang='lat' dir='ltr'><strong>m.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 445 131 604 174; x_wconf 69' lang='lat' dir='ltr'><strong>mn.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 649 133 716 176; x_wconf 73' lang='grc' dir='ltr'><strong>ι..</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 755 133 838 190; x_wconf 83' lang='grc' dir='ltr'><strong>ιι,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 887 135 947 176; x_wconf 78' lang='grc' dir='ltr'><strong>τ.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 971 133 1034 176; x_wconf 78' lang='lat' dir='ltr'><strong>v.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1073 132 1151 174; x_wconf 71' lang='lat' dir='ltr'><strong>nn</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1172 131 1281 174; x_wconf 73' lang='lat' dir='ltr'><strong>mu</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1310 133 1381 176; x_wconf 76' lang='grc' dir='ltr'><strong>ιτ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1406 129 1795 174; x_wconf 60' lang='lat' dir='ltr'><strong>muns-mn.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1882 115 1979 172; x_wconf 66' lang='grc' dir='ltr'><strong>ΓΠ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

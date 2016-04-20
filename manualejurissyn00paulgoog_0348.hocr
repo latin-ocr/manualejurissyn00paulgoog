@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./manualejurissyn00paulgoog_0348.png"; bbox 0 0 2292 3684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 317 86 2127 158">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 317 86 2127 158">
+     <span class='ocr_line' id='line_1_1' title="bbox 317 86 2127 158; baseline 0.001 -15"><span class='ocrx_word' id='word_1_1' title='bbox 317 88 418 144; x_wconf 72' lang='lat'><strong>³5⁸</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 457 102 574 145; x_wconf 75' lang='lat' dir='ltr'><strong>am</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 601 100 742 143; x_wconf 67' lang='lat' dir='ltr'><strong>mn.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 783 102 833 143; x_wconf 89' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 861 100 955 158; x_wconf 84' lang='lat' dir='ltr'><strong>m,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 995 86 1030 158; x_wconf 69' lang='lat'><em>9</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1053 90 1107 145; x_wconf 79' lang='lat'><strong>8.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1150 100 1223 143; x_wconf 69' lang='lat' dir='ltr'><strong>nt</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1250 100 1452 143; x_wconf 70' lang='lat' dir='ltr'><strong>unam.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1486 98 1777 145; x_wconf 61' lang='lat' dir='ltr'><strong>musra:</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1800 100 2127 145; x_wconf 62' lang='lat' dir='ltr'><strong>mnemon.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
